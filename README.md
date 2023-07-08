@@ -6,5 +6,6 @@
 - ~~`.idea` 폴더가 있는 하위 폴더에 압축 풀고 Initial Commit~~
 
 ---
+
 # `.gitignore` 생성
 - `intellij`, `visualstudiocode`, `macos`, `java`, `gradle`
