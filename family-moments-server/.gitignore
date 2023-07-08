@@ -5,6 +5,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### Project Files ###
+*.properties
+*.yml
+
 ### STS ###
 .apt_generated
 .classpath
@@ -37,9 +41,6 @@ out/
 .vscode/
 
 ### Codes above this lines created in default ###
-
-### Project Files ###
-*.properties
 
 ### Codes below this lines created in gitignore.io ###
 
