@@ -39,7 +39,7 @@ out/
 ### Codes above this lines created in default ###
 
 ### Project Files ###
-application.properties
+*.properties
 
 ### Codes below this lines created in gitignore.io ###
 
